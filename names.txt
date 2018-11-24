@@ -1,8 +1,6 @@
 Yordan
-<<<<<<< HEAD
-SomeOneElse
-=======
 Momchil
 Preslav N
 Vania
->>>>>>> e7d29aaeb6e51ca4dae8c4b5ad5185586e9abf44
+Roumyana
+SomeOneElse
